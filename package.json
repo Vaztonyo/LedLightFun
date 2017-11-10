@@ -1,0 +1,21 @@
+{
+  "name": "ledlightfun",
+  "version": "1.0.0",
+  "description": "arduino & j5 in oop",
+  "main": "node.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "arduino",
+    "johnny-five",
+    "objects",
+    "class"
+  ],
+  "author": "Vaztonyo",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.11.7",
+    "nodemon": "^1.12.1"
+  }
+}
