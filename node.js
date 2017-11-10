@@ -48,7 +48,7 @@ board.on('ready', function() {
   stopInterval = setInterval(function() {
     counter++
     console.log(counter);
-    if (counter == 5) {
+    if (counter == 2) {
       light.on();
     } else if (counter == 8) {
       light.blink();
